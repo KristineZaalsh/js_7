@@ -1,0 +1,15 @@
+.image {
+  width: 200px;
+  transition: 0.5s;
+}
+.section1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buttons {
+  display: flex;
+  margin-left: 28%;
+  margin-top: 1%;
+  column-gap: 1%;
+}
